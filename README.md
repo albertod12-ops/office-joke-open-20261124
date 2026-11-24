@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/albertod12-ops/office-joke-open-20261124/rank.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 [![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/albertod12-ops/office-joke-open-20261124/reward.svg)](https://make.fun/bounty/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232?utm_source=github&utm_medium=readme&utm_campaign=u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232)
 
-One line about office life, under 200 characters: a joke about the meeting room that is always booked. v1: the meeting room (107 characters).
+One line about office life, under 200 characters: a joke about the daily standup that refused to end. v2: the daily standup (96 characters). v1: the meeting room (107 characters).
 
 ## Run it
 
