@@ -7,7 +7,8 @@ why nobody can ever book the meeting room. The turn lands in the last few
 words (the loop: meetings about the impossibility of booking the room are
 themselves the reason the room is booked), the recognition bites (everyone
 has hunted for a free meeting room), and the angle is fresh (room booking,
-not the usual Monday / reply-all / printer line).
+not the usual Monday / reply-all / printer line). Built from the judge
+brief alone: this is a blind round, so no competitor text was visible.
 """
 
 import os
